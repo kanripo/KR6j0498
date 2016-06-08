@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:44.425772
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:19
 #+TITLE: 使呪法經
 #+PROPERTY: CBETA_ID T21n1267
 #+PROPERTY: ID KR6j0498
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1267
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0498_T_001-0297b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1267¶
-
- 使呪法經¶
+No. 1267¶
+使呪法經¶
 ¶
 南天竺三藏菩提留支奉　詔譯¶
 
@@ -26,8 +25,7 @@ No.1267¶
 唵虐伽頡里唵訶𤙖泮吒¶
 ¶
 
-欲作此法先須造像。或用白鑞及金銀銅樺¶
-木等。各刻作其形像。夫婦二身和合相抱¶
+欲作此法先須造像。或用白鑞及金銀銅樺木等。各刻作其形像。夫婦二身和合相抱¶
 立。並作象頭人身。其造像直不得還價。造¶
 其像已。白月一日。於淨室內用淨牛糞磨作¶
 圓壇。隨意大小。當取一升胡麻油。用上呪¶
@@ -133,9 +131,9 @@ No.1267¶
 　若有侵嬈者
 　頭破作七分¶
 　壽命悉長遠
-　福祿自遷至
+　福祿自遷至」
 #+END_VERSE
-」¶
+¶
 
 爾時毘那夜羅迦說是偈已。告世人言。說處¶
 世陀羅尼法。最護眾生。隨其所願皆得滿足。
